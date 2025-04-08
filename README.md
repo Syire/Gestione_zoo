@@ -39,8 +39,8 @@ Classe generica che gestisce una lista di animali:
 Il file `Main` crea un oggetto `Zoo`, aggiunge un leone e un elefante, e stampa le informazioni su ciascun animale.
 
 Esempio di output:
-Lion [Name=Leo, age=4, KG=20.0] Leo,il nostro leone, va nutrito con carne fresca e di qualità(leone raffinato) 
-Elephant [Name=Elephant, age=5, KG=250.0] Elephant,il nostro elefante, mangia qualsiasi cosa(menomale)
+- Lion [Name=Leo, age=4, KG=20.0] Leo,il nostro leone, va nutrito con carne fresca e di qualità(leone raffinato) 
+- Elephant [Name=Elephant, age=5, KG=250.0] Elephant,il nostro elefante, mangia qualsiasi cosa(menomale)
 
 ## 📌 Note
 
