@@ -1,4 +1,4 @@
-# Gestione_zoo
+# 🐾 Zoo Manager (Java)
 
 Questo progetto in Java simula la gestione di un piccolo **zoo virtuale**, con animali che possono essere nutriti e che hanno un fabbisogno alimentare giornaliero calcolato in base alla loro età.
 
